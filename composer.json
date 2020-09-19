@@ -1,0 +1,17 @@
+{
+    "name": "guodaye/guodaye",
+    "description": "guodaye mark",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anssykg",
+            "email": "1099815904@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Guodaye\\": "src/"
+        }
+    }
+}
