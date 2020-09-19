@@ -2,6 +2,7 @@
     "name": "guodaye/guodaye",
     "description": "guodaye mark",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anssykg",
